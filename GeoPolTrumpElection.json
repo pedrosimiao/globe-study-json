@@ -1,0 +1,2430 @@
+{
+    "Australia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 3996
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 4722
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2709
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2227
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 5082
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 2821
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2442
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 5983
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 8988
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1923
+        }
+    ],
+    "Bolivia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 4244
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 3263
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 678
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 885
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 3547
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 754
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2939
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 4833
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 758
+        }
+    ],
+    "Brazil": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 20810
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 15237
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 9571
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 8639
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 3058
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 22111
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 7996
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 19596
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 39415
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 11101
+        }
+    ],
+    "Canada": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 13964
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 16902
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 11020
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 10659
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 6389
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 13863
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 4925
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 14816
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 21215
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 4881
+        }
+    ],
+    "Chile": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2496
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 3681
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1923
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 1526
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 2774
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1437
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2821
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 4913
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1418
+        }
+    ],
+    "China": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 3218
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 3051
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1628
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 626
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1121
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 1386
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1656
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2098
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 3048
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 973
+        }
+    ],
+    "Colombia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 9638
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 8752
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 3362
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 4403
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1294
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 14581
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2515
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 5029
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 19599
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 3365
+        }
+    ],
+    "Congo": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 0
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 13
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 0
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 0
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 0
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "Cuba": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 651
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 483
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 205
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 102
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 485
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 554
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 704
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 436
+        }
+    ],
+    "Ecuador": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 1683
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 2904
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 706
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 845
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 3825
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 683
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2103
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 3233
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1330
+        }
+    ],
+    "Egypt": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 803
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 843
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 350
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 263
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1452
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 1068
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 159
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 797
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1756
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 332
+        }
+    ],
+    "Ethiopia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 0
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 171
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 0
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 0
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 0
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "France": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 21110
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 36891
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 17234
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 14896
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 10172
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 25860
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 5366
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 9327
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 43280
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 12805
+        }
+    ],
+    "Germany": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 19096
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 23141
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 11341
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 14231
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 4841
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 21958
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 13300
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 21936
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 27035
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 8205
+        }
+    ],
+    "Ghana": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 1363
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1431
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 198
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 260
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 241
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 276
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 225
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 385
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1160
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 46
+        }
+    ],
+    "Holland": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 8573
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 7732
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2601
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 5926
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1088
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 11942
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3740
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 9245
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 8509
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1562
+        }
+    ],
+    "Hong Kong": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 17885
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 12572
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 5779
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 5016
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 4735
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 2137
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 5058
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 8267
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 7964
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 2875
+        }
+    ],
+    "Hungary": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 692
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1888
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 310
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 1470
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 246
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 2460
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 870
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 0
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1365
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "India": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 27040
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 22448
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 7224
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 15117
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 13309
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 25395
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 15880
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 10737
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 25657
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 2889
+        }
+    ],
+    "Indonesia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 15162
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 14931
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 3602
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 11240
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 3973
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 13578
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3117
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 4763
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 10609
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1263
+        }
+    ],
+    "Iran": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 1420
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 169
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 268
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 229
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 466
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 941
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 279
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 652
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1415
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 169
+        }
+    ],
+    "Iraq": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 55
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 134
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 123
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 93
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 93
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 62
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 146
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "Ireland": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 6302
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 6648
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1687
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2061
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1571
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 6367
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1435
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 4860
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 9341
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 773
+        }
+    ],
+    "Israel": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 9770
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 11616
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 4497
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 4522
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 4098
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 7803
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2031
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 12242
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 11550
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 3526
+        }
+    ],
+    "Italy": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 22630
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 21711
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 14216
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 14828
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 5103
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 62447
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3596
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 21118
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 32685
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 9806
+        }
+    ],
+    "Ivory Coast": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 0
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 93
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 102
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 64
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 0
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 138
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "Japan": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 18460
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 50059
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 30812
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 9889
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 15305
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 26405
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 21257
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 15996
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 24156
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 10361
+        }
+    ],
+    "Kenya": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 794
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 415
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 794
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 942
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 415
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2761
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 612
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1369
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 806
+        }
+    ],
+    "Lebanon": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 312
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 407
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 184
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 294
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 184
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 620
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 231
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 569
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 127
+        }
+    ],
+    "Malaysia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 17147
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 8720
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 3056
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2024
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 2796
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 5382
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2886
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 4940
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 9601
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 780
+        }
+    ],
+    "Mexico": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 13735
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 13014
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 5501
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 6547
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1327
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 16710
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3873
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 7894
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 18808
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 6098
+        }
+    ],
+    "Morocco": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 74
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 126
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 117
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 117
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 0
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 106
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "New Zealand": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2905
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 3702
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2196
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2866
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1493
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 3128
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1396
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2941
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 4157
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 565
+        }
+    ],
+    "Nigeria": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 9160
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 5987
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2468
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 3591
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 2019
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 5366
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3949
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 3692
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 10959
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1319
+        }
+    ],
+    "Norway": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 3097
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1559
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 0
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 1417
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 1680
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 0
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 780
+        }
+    ],
+    "Pakistan": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 7252
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 6043
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 6832
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 1292
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 3619
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 4327
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1073
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2837
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 7737
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1243
+        }
+    ],
+    "Peru": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 11407
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 7468
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 4930
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 5413
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1246
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 560
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3243
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 6086
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 11099
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 3575
+        }
+    ],
+    "Portugal": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 4806
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1008
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2580
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 494
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 2077
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 324
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 4323
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 2270
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 2771
+        }
+    ],
+    "Puerto Rico": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2974
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 7840
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1498
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2121
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 1066
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1983
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2546
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 3441
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1484
+        }
+    ],
+    "Russia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 15403
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 17862
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 38833
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 12060
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 754
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 13971
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 818
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 16702
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 6844
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 227
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2685
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 2642
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1153
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 350
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1517
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 1987
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 551
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 932
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 2816
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "Scotland": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2794
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 2815
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 544
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 737
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 508
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 2615
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 582
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2142
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 2711
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 518
+        }
+    ],
+    "Sierra Leone": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 172
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 194
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 356
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 96
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 94
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 197
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 0
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 205
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "Singapore": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 3537
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 3865
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1353
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 1516
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1441
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 1545
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1329
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 1797
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 4257
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 916
+        }
+    ],
+    "South Africa": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2325
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1133
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 434
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 410
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 256
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 960
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 438
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 733
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1565
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 360
+        }
+    ],
+    "South Korea": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 35545
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 15635
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 7822
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2740
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 7738
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 18501
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2914
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 13667
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 28549
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 2111
+        }
+    ],
+    "Spain": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 24768
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 23607
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 14709
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 11472
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 5038
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 26344
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 10788
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 19459
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 30112
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 12244
+        }
+    ],
+    "Sweden": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 0
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 747
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 0
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 359
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 747
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 1265
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 359
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 0
+        }
+    ],
+    "Taiwan": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 2032
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 3851
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 5612
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 1436
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1416
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2040
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 2778
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 4731
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 772
+        }
+    ],
+    "Thailand": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 8101
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 5043
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 3094
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 2975
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 3777
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1993
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 3406
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 10951
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 5828
+        }
+    ],
+    "Turkey": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 7599
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 10041
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2059
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 716
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 2822
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 3547
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 2220
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 1542
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 9421
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 2030
+        }
+    ],
+    "UAE": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 350
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 915
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 397
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 102
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 213
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 421
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 367
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 817
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 134
+        }
+    ],
+    "UK": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 55193
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 58664
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 26178
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 28497
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 20386
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 38183
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 11448
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 37187
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 64707
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 13547
+        }
+    ],
+    "USA": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 109256
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 120721
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 32547
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 145937
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 49206
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 104884
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 35942
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 91550
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 149787
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 37212
+        }
+    ],
+    "Ukraine": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 4364
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1393
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 1161
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 819
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 0
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 0
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 1376
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 3881
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 673
+        }
+    ],
+    "Uruguay": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 21537
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 20480
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 11644
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 11254
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 2486
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 16807
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 7670
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 14971
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 24565
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 9746
+        }
+    ],
+    "Vietnam": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 7279
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 7587
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2563
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 3793
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 3469
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 4421
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 1641
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 4853
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 8130
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 12674
+        }
+    ],
+    "Zimbabwe": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 1328
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 1576
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 284
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 274
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 462
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 608
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 584
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 688
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 1448
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 423
+        }
+    ]
+}
