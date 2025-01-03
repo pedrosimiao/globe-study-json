@@ -629,48 +629,6 @@
             "index": 46
         }
     ],
-    "Holland": [
-        {
-            "termo_pt": "Anti-imigração",
-            "index": 8573
-        },
-        {
-            "termo_pt": "Antiambientalismo",
-            "index": 7732
-        },
-        {
-            "termo_pt": "Ataque a Imprensa",
-            "index": 2601
-        },
-        {
-            "termo_pt": "Homofobia",
-            "index": 5926
-        },
-        {
-            "termo_pt": "Islamofobia",
-            "index": 1088
-        },
-        {
-            "termo_pt": "Misoginia",
-            "index": 11942
-        },
-        {
-            "termo_pt": "Negacionismo na saúde",
-            "index": 3740
-        },
-        {
-            "termo_pt": "Racismo",
-            "index": 9245
-        },
-        {
-            "termo_pt": "Revogação de Direitos",
-            "index": 8509
-        },
-        {
-            "termo_pt": "Xenofobia",
-            "index": 1562
-        }
-    ],
     "Hong Kong": [
         {
             "termo_pt": "Anti-imigração",
@@ -1341,6 +1299,48 @@
         {
             "termo_pt": "Xenofobia",
             "index": 0
+        }
+    ],
+    "Netherlands": [
+        {
+            "termo_pt": "Anti-imigração",
+            "index": 8573
+        },
+        {
+            "termo_pt": "Antiambientalismo",
+            "index": 7732
+        },
+        {
+            "termo_pt": "Ataque a Imprensa",
+            "index": 2601
+        },
+        {
+            "termo_pt": "Homofobia",
+            "index": 5926
+        },
+        {
+            "termo_pt": "Islamofobia",
+            "index": 1088
+        },
+        {
+            "termo_pt": "Misoginia",
+            "index": 11942
+        },
+        {
+            "termo_pt": "Negacionismo na saúde",
+            "index": 3740
+        },
+        {
+            "termo_pt": "Racismo",
+            "index": 9245
+        },
+        {
+            "termo_pt": "Revogação de Direitos",
+            "index": 8509
+        },
+        {
+            "termo_pt": "Xenofobia",
+            "index": 1562
         }
     ],
     "New Zealand": [
@@ -2133,7 +2133,7 @@
             "index": 2030
         }
     ],
-    "UAE": [
+    "United Arab Emirates": [
         {
             "termo_pt": "Anti-imigração",
             "index": 350
@@ -2175,7 +2175,7 @@
             "index": 134
         }
     ],
-    "UK": [
+    "United Kingdom": [
         {
             "termo_pt": "Anti-imigração",
             "index": 55193
@@ -2217,7 +2217,7 @@
             "index": 13547
         }
     ],
-    "USA": [
+    "United States of America": [
         {
             "termo_pt": "Anti-imigração",
             "index": 109256
